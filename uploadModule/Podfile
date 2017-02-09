@@ -1,0 +1,5 @@
+target 'uploadModule' do
+
+pod 'FirebaseUI', '~> 2.0'
+
+end
